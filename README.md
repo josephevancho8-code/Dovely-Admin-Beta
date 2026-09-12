@@ -18,8 +18,8 @@ This repository serves as an open testing hub for earlier beta releases. We are 
 ## 📥 How to Download & Install
 
 1. Navigate to the **[Releases](../../releases)** section on the right side of this repository.
-2. Under the latest version (`v1.0.0`), expand **Assets**.
-3. Tap the `.apk` file (e.g., `Dovely_Admin_v1.0.0.apk`) to download it directly to your Android device.
+2. Under the latest version (`v2.0.1`), expand **Assets**.
+3. Tap the `.apk` file (e.g., `Dovely_Admin_v2.0.1.apk`) to download it directly to your Android device.
 4. Open the downloaded file on your phone or tablet to install it.
    > *Note: Since this is a test build, your device may ask you to enable "Install from Unknown Sources" or allow your browser to install unknown apps.*
 
